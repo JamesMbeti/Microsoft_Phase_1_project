@@ -43,7 +43,7 @@ The movie release month is also key in terms of the income to be generated and s
 
 <img src = "/images/output5.png"/>
 
-There is much more to the analysis which could be found in this [Student.ipynb File](https://github.com/JamesMbeti/Microsoft_phase_1_project/blob/master/student.ipynb) and a [Presentation pdf](https://github.com/JamesMbeti/Microsoft_phase_1_project/blob/master/presentation.pdf) is also available which led to some of the following conclusions.
+There is much more to the analysis which could be found in this [Student.ipynb File](https://github.com/JamesMbeti/Microsoft_phase_1_project/blob/main/student.ipynb) and a [Presentation pdf](https://github.com/JamesMbeti/Microsoft_phase_1_project/blob/main/presentation.pdf) is also available which led to some of the following conclusions.
 
 #### RECOMMENDATIONS
 
